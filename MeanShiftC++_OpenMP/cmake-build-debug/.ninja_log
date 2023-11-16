@@ -1,0 +1,17 @@
+# ninja log v5
+2	631	7134454073427907	build.ninja	645fce2dbc323fdd
+97	3532	7134417357328453	CMakeFiles/MeanShiftCorsinoviMeoni.dir/Utils.cpp.obj	30f928ba20abe4
+56	2093	7134417342971236	CMakeFiles/MeanShiftCorsinoviMeoni.dir/Cluster.cpp.obj	145c96c8d59cd371
+2100	2963	7134417351706035	CMakeFiles/MeanShiftCorsinoviMeoni.dir/Point.cpp.obj	7bb9003a3ec1eec2
+34	3207	7134417354126454	CMakeFiles/MeanShiftCorsinoviMeoni.dir/main.cpp.obj	15fac2883f4f5429
+1	3483	7134417356903255	CMakeFiles/MeanShiftCorsinoviMeoni.dir/ClusterManager.cpp.obj	f3e0d2370e3c22d0
+18	3313	7134417355200919	CMakeFiles/MeanShiftCorsinoviMeoni.dir/MeanShift.cpp.obj	4fedf894a00fc24b
+76	3691	7134417358987283	CMakeFiles/MeanShiftCorsinoviMeoni.dir/SpeedUpTests.cpp.obj	ddfea31440ed3c0b
+72	4445	7134429188656699	CMakeFiles/untitled.dir/main.cpp.obj	fed202c93d4009ea
+107	2465	7134429168284096	CMakeFiles/untitled.dir/Point.cpp.obj	4ebbab15e4de26f9
+1	2901	7134429171671955	CMakeFiles/untitled.dir/Cluster.cpp.obj	15e6af2baaa2363
+48	4513	7134429189379310	CMakeFiles/untitled.dir/MeanShift.cpp.obj	67bb39643548190
+22	4735	7134429191650684	CMakeFiles/untitled.dir/ClusterManager.cpp.obj	5f455ec58f10b477
+147	4928	7134429193567181	CMakeFiles/untitled.dir/SpeedUpTests.cpp.obj	b893252aa32c5a43
+2466	5872	7134429203034936	CMakeFiles/untitled.dir/Utils.cpp.obj	98b34469d8444d7
+5872	6706	7134429211118897	untitled.exe	c4977b56df126d23
